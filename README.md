@@ -17,6 +17,3 @@ CSS
 JavaScript  
 APIs  
 Firebase
-
-**Website Link**🔗
-https://anomasingh.github.io/AASHA/
